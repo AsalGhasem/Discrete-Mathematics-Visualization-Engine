@@ -1,3 +1,0 @@
-manim notes:
-manim -pql/m/h main.py firstvidname
-manim -pqm main.py EulerPhiSimple
